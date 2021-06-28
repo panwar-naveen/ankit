@@ -77,7 +77,7 @@
             			<header class="front">
                <div class="container">
                   <div class="logo">
-                     <a href="home.php">
+                     <a href="home.html">
                      <img src="images/logo.png" alt="Logo WAYWODE JURISTS">
                      </a>
                   </div>
@@ -86,7 +86,7 @@
                         <div class="main-menu wrapper-header">
                            <ul>
 						   
-                                  <li class="servicios"><a href="home.php">Home</a></li>
+                                  <li class="servicios"><a href="home.html">Home</a></li>
                                   <li class="servicios"><a href="about.php">Our Firm</a></li>
 								 <li class="servicios"><a href="ourteam.php">Our Team </a></li>
 								<li class="servicios"><a href="newsreports.php">News Reports </a></li>
